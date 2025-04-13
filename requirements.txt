@@ -1,0 +1,7 @@
+ollama
+langchain-ollama
+langchain-core
+langchain-community
+langchain-experimental
+langgraph
+huggingface-hub
